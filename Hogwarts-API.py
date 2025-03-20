@@ -1,13 +1,3 @@
-# You are a hogwarts teacher doing a lesson with the whole of one house e.g the whole of Hufflepuff.
-# You are doing a dualing task with the students in pairs.
-# The code takes the whole list of Hogwarts students and pairs up the students that you are teaching that day.
-# You will be provided with a file containing the pairs of students ready for your lesson.
-
-# https://hp-api.onrender.com/api/characters/students
-# 1. Is student in that house ["house"] == TeachingHouse
-# 2. Is the student still alive ["alive"] = True
-# 3. hogwarts student = true ["hogwartsStudent"] = True
-# 4. Prints list of name vs name
 
 import requests #Importing request which we need to be able to use the API, when it has a red squiggle it needs adding
 import random #Importing random so I can shuffle the students list so we get random pairing not in order
