@@ -16,7 +16,8 @@ Below is the main thoughts/steps of what I was going to go through to get my lis
 
 ## <span style="color:pink">Usage</span>
 
-When you run the code it will provide you with a pairs.txt file which will contain the data
+You will need to import requests and import random in order to run the code.
+When you run the code it will provide you with a pairs.txt file which will contain the data.
 
 ```bash
 
